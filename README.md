@@ -1,1 +1,2 @@
-# python_calc
+# python_cal
+dodalem plik aplikacji
